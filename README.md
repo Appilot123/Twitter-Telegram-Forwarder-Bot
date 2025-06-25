@@ -8,5 +8,6 @@ It’s built for creators, marketers, and community managers who want to sync Tw
 
 
 ## Core Features:
-
-- 
+- **Real-Time Tweet Syncing:** Monitors Twitter in real-time and pushes content instantly to Telegram.
+- **Flexible Filtering & Formatting:** Customize which accounts to track, include/exclude retweets or replies, and format the message appearance.
+- **Resilient and Stealthy:** Uses proxy and token-based access with automatic error handling and session retries for long uptime
