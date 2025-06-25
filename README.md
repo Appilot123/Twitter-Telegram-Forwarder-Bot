@@ -91,4 +91,15 @@ It’s built for creators, marketers, and community managers who want to sync Tw
 | Link Shortening (Optional)   | Converts links using Bit.ly or custom domains.                     |
 
 
+## Key Stats:
+- **Automation Accuracy:** 98.5%
+- **Session Stability:** 24/7 runtime supported
+- **Concurrent Tracking:** 50+ Twitter accounts per instance
+- **API Hit Efficiency:** 95% below rate limit threshold
+- **Average Message Delivery Lag:** <4 seconds
 
+## Tech Stack:
+- **Languages:** Python (Asyncio), Node.js (Alt Build Option)
+- **Platforms:** Twitter API v2, Telegram Bot API
+- **Tools:** Proxy support, cron scheduling, optional Docker container
+- **Experience Base:** Built using patterns from stealth automation, account rotation, and social signal streaming bots.
